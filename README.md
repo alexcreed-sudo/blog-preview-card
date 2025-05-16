@@ -8,9 +8,10 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
-- [Author](#author)
+
+
+## Overview
 
 
 ## Overview
@@ -23,13 +24,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
+
+
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/alexcreed-sudo/blog-preview-card)
+- Live Site URL: (https://social-links-azure-six.vercel.app/)
 
 ### Built with
 
@@ -37,10 +40,10 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
+
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Alex Creed](https://www.your-site.com)
+- Frontend Mentor - [@alexcreed-sudo](https://www.frontendmentor.io/profile/alexcreed-sudo)
+- X - [@alex66496](https://x.com/alex66496)
